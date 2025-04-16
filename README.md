@@ -13,11 +13,7 @@
 ---
 
 ### 🌌 About Me
-I'm a **Computer Science graduate** (2022-2026) from **Aditya College of Engineering and Technology**, fueled by a passion for coding and creating impactful solutions. With a **7.8 GPA**, I excel in **Salesforce Administration**, **Web Development**, and coding in **C++, Java, Python**, and more. I've tackled **350+ LeetCode challenges** and built **5+ innovative projects**.
-
-- 🚀 **Superpowers**: Apex scripting, Lightning Web Components (LWC), UI/UX design, API integrations.
-- 🏆 **Wins**: Boosted web app performance by **40%** and user engagement by **25%**.
-- 😄 **Fun Fact**: I automated **100% of billing notifications** for a Smart Energy system!
+I'm a Computer Science graduate with experience in Salesforce Admin and Development. Skilled in C++, Java, Python, and front-end tech like HTML, CSS, and JavaScript. Built web apps that improved performance by 40% and user engagement by 25%. Solved 400+ LeetCode problems and worked on 5+ real-world projects. I enjoy building clean UIs, automating workflows, and learning new tech!
 
 ---
 
