@@ -1,95 +1,66 @@
-<h1 align="center">Hi there! I'm Sai Raja Saride 👋</h1>
+<h1 align="center">Hey, I'm Sai Raja Saride! 👨‍💻</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00DDEB&center=true&vCenter=true&width=435&lines=Computer+Science+Enthusiast;Salesforce+Wizard;Web+Development+Ninja" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=4000&pause=1000&color=00DDEB&center=true&vCenter=true&width=450&lines=Computer+Science+Enthusiast;Salesforce+Wizard;Web+Development+Ninja;Problem-Solving+Geek" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="mailto:sairajasaride113@gmail.com"><img src="https://img.shields.io/badge/Email-Me-blue?style=for-the-badge&logo=gmail" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/sairajasaride"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://github.com/SAIRAJA2005"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub"></a>
+  <a href="mailto:sairajasaride113@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/sairajasaride"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/SAIRAJA2005"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
----
-
-### 🚀 About Me
-I’m a **Computer Science graduate** (2022-2026) from **Aditya College of Engineering and Technology**, passionate about coding, problem-solving, and building scalable solutions. With a **GPA of 7.8**, I specialize in **Salesforce Administration**, **Web Development**, and programming in **C++, Java, Python**, and more. I’ve solved **350+ LeetCode challenges** and delivered **5+ impactful projects** using modern tech stacks.
-
-- 🌟 **Key Strengths**: Apex scripting, Lightning Web Components (LWC), UI/UX design, and API integrations.
-- 🎯 **Achievements**: Enhanced performance by **40%** in web apps and boosted user engagement by **25%**.
-- 💡 **Fun Fact**: I once automated 100% of billing notifications in a Smart Energy system!
-
----
-
-### 🛠️ Skills
 <p align="center">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white" alt="Salesforce">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
+  <img src="https://komarev.com/ghpvc/?username=SAIRAJA2005&style=flat-square&color=blue" alt="Profile Views" />
 </p>
 
-#### Problem-Solving Stats
-### 🧩 Coding Profile Progress
+---
 
-#### LeetCode ([S_S_R_01](https://leetcode.com/u/S_S_R_01/))
-- **Problems Solved**: 350+  
-  ![LeetCode Progress](https://progress-bar.dev/350/?scale=500&title=LeetCode%20Problems&width=250&color=00cc00&suffix=/500)  
-- **Note**: Based on resume data; update with your latest stats from LeetCode!
+### 🌌 About Me
+I'm a **Computer Science graduate** (2022-2026) from **Aditya College of Engineering and Technology**, fueled by a passion for coding and creating impactful solutions. With a **7.8 GPA**, I excel in **Salesforce Administration**, **Web Development**, and coding in **C++, Java, Python**, and more. I've tackled **350+ LeetCode challenges** and built **5+ innovative projects**.
 
-#### GeeksforGeeks ([sairajasa35s8](https://www.geeksforgeeks.org/user/sairajasa35s8/))
-- **Problems Solved**: 150+  
-  ![GFG Progress](https://progress-bar.dev/150/?scale=300&title=GFG%20Problems&width=250&color=00cc00&suffix=/300)  
-- **Note**: From resume; check your GFG profile for exact count!
-
-#### CodeChef ([sairaja8](https://www.codechef.com/users/sairaja8))
-- **Estimated Problems Solved**: 100+  
-  ![CodeChef Progress](https://progress-bar.dev/100/?scale=200&title=CodeChef%20Problems&width=250&color=00cc00&suffix=/200)  
-- **Rating**: Update with your current CodeChef rating!  
-  ![CodeChef Rating](https://img.shields.io/badge/CodeChef-Unrated-orange?style=flat-square)  
-- **Note**: Estimated; log into CodeChef to get your exact problem count and rating.
+- 🚀 **Superpowers**: Apex scripting, Lightning Web Components (LWC), UI/UX design, API integrations.
+- 🏆 **Wins**: Boosted web app performance by **40%** and user engagement by **25%**.
+- 😄 **Fun Fact**: I automated **100% of billing notifications** for a Smart Energy system!
 
 ---
 
-### 🌟 How to Update Your Stats
-1. **LeetCode**: Visit your profile (https://leetcode.com/u/S_S_R_01/), check your total solved problems, and adjust the `350` value in the URL.
-2. **GFG**: Go to https://www.geeksforgeeks.org/user/sairajasa35s8/, find your solved problem count, and update the `150` value.
-3. **CodeChef**: Log into https://www.codechef.com/users/sairaja8, note your total submissions or solved problems (if available) and rating, then update the `100` and rating badge accordingly.
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,js,salesforce,sql,react,nodejs,mysql,git,github" />
+</p>
+
 ---
 
-### 🌟 Projects
+### 💻 Projects
 #### [Portfolio Using LWC](https://github.com/SAIRAJA2005/portfolio-lwc)
-- Built a dynamic portfolio with **Salesforce LWC**, reducing manual work by **80%**.
-- Responsive UI with **HTML, CSS, JS**, optimized for performance.
+- Dynamic portfolio with **Salesforce LWC**, slashing manual work by **80%**.
+- Responsive UI using **HTML, CSS, JS**, optimized for speed.
 
 #### [Smart Energy Building Management System](https://github.com/SAIRAJA2005/sebms)
-- Automated energy monitoring for **10+ buildings** using **Salesforce**.
-- Improved efficiency by **25%** with billing automation.
+- Automated energy monitoring for **10+ buildings** with **Salesforce**.
+- Improved efficiency by **25%** via billing automation.
 
 #### [SSR-Bazaar](https://github.com/SAIRAJA2005/ssr-bazaar)
-- Static e-commerce site for electronics & groceries with **90%+ device compatibility**.
-- Enhanced user experience with real-time updates.
+- Static e-commerce site with **90%+ device compatibility**.
+- Real-time updates for seamless user experience.
 
 #### [School Management System](https://github.com/SAIRAJA2005/school-management)
-- Java-based system with **Swing UI** and **MySQL** integration for secure admissions.
+- Java-based system with **Swing UI** and **MySQL** for secure admissions.
 
 ---
 
 ### 💼 Experience
 - **C Intern @ Technical Hub**  
-  Guided **200+ students**, improving problem-solving skills by **40%**.
+  Mentored **200+ students**, enhancing problem-solving skills by **40%**.
 - **Salesforce Admin Intern @ Technical Hub**  
-  Streamlined **5+ projects**, reducing manual effort by **30%**.
+  Streamlined **5+ projects**, cutting manual effort by **30%**.
 - **Web Development Intern @ Codesoft**  
-  Built a NASA-themed site, boosting engagement by **30%**.
+  Developed a NASA-themed site, increasing engagement by **30%**.
 
 ---
 
-### 🏆 Certifications & Achievements
+### 🏅 Certifications & Achievements
 - **Certifications**: Java, Python, SQL, CCNA: Intro to Networks.
 - **Achievements**: 2nd Prize in **INTELLECTON @ ADV’IKA’23**.
 
@@ -97,12 +68,41 @@ I’m a **Computer Science graduate** (2022-2026) from **Aditya College of Engin
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SAIRAJA2005&show_icons=true&theme=radical" alt="GitHub Stats" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SAIRAJA2005&theme=radical" alt="GitHub Streak" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SAIRAJA2005&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" width="420" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SAIRAJA2005&theme=dracula&hide_border=true" alt="GitHub Streak" width="420" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAIRAJA2005&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
+### 🧩 Coding Profiles
+<details>
+  <summary>Click to view coding stats</summary>
+
+  #### LeetCode ([S_S_R_01](https://leetcode.com/u/S_S_R_01/))
+  - **Problems Solved**: 350+  
+    ![LeetCode Progress](https://progress-bar.dev/350/?scale=500&title=LeetCode%20Problems&width=250&color=00cc00&suffix=/500)
+
+  #### GeeksforGeeks ([sairajasa35s8](https://www.geeksforgeeks.org/user/sairajasa35s8/))
+  - **Problems Solved**: 150+  
+    ![GFG Progress](https://progress-bar.dev/150/?scale=300&title=GFG%20Problems&width=250&color=00cc00&suffix=/300)
+
+  #### CodeChef ([sairaja8](https://www.codechef.com/users/sairaja8))
+  - **Estimated Problems Solved**: 100+  
+    ![CodeChef Progress](https://progress-bar.dev/100/?scale=200&title=CodeChef%20Problems&width=250&color=00cc00&suffix=/200)  
+    ![CodeChef Rating](https://img.shields.io/badge/CodeChef-Unrated-orange?style=flat-square)
+
+  ##### How to Update Stats
+  1. **LeetCode**: Check https://leetcode.com/u/S_S_R_01/ for total solved problems, update `350` in the URL.
+  2. **GFG**: Visit https://www.geeksforgeeks.org/user/sairajasa35s8/, update `150` with your problem count.
+  3. **CodeChef**: Log into https://www.codechef.com/users/sairaja8, update `100` and rating badge with your stats.
+</details>
+
+---
+
 <p align="center">
-  <strong>Let’s build something amazing together! 🚀</strong>
+  <strong>Let’s code the future together! ✨</strong>
 </p>
