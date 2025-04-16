@@ -27,7 +27,7 @@ I'm a **Computer Science graduate** (2022-2026) from **Aditya College of Enginee
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,js,salesforce,sql,react,nodejs,mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,js,sql,nodejs,mysql,git,github" />
 </p>
 
 ---
@@ -41,7 +41,7 @@ I'm a **Computer Science graduate** (2022-2026) from **Aditya College of Enginee
 - Automated energy monitoring for **10+ buildings** with **Salesforce**.
 - Improved efficiency by **25%** via billing automation.
 
-#### [SSR-Bazaar](https://github.com/SAIRAJA2005/ssr-bazaar)
+#### [SSR-Bazaar](https://ssrbazar.netlify.app/)
 - Static e-commerce site with **90%+ device compatibility**.
 - Real-time updates for seamless user experience.
 
@@ -87,7 +87,7 @@ I'm a **Computer Science graduate** (2022-2026) from **Aditya College of Enginee
     ![LeetCode Progress](https://progress-bar.dev/350/?scale=500&title=LeetCode%20Problems&width=250&color=00cc00&suffix=/500)
 
   #### GeeksforGeeks ([sairajasa35s8](https://www.geeksforgeeks.org/user/sairajasa35s8/))
-  - **Problems Solved**: 150+  
+  - **Problems Solved**: 200+  
     ![GFG Progress](https://progress-bar.dev/150/?scale=300&title=GFG%20Problems&width=250&color=00cc00&suffix=/300)
 
   #### CodeChef ([sairaja8](https://www.codechef.com/users/sairaja8))
