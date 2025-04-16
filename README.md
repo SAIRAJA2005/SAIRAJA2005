@@ -33,17 +33,18 @@ I'm a **Computer Science graduate** (2022-2026) from **Aditya College of Enginee
 ---
 
 ### 💻 Projects
-#### [Portfolio Using LWC](https://github.com/SAIRAJA2005/portfolio-lwc)
+
+#### [SSR-Bazaar](https://ssrbazar.netlify.app/)
+- Static e-commerce site with **90%+ device compatibility**.
+- Real-time updates for seamless user experience.
+
+#### [Portfolio Using LWC](https://rhub-dev-ed.develop.my.site.com/)
 - Dynamic portfolio with **Salesforce LWC**, slashing manual work by **80%**.
 - Responsive UI using **HTML, CSS, JS**, optimized for speed.
 
 #### [Smart Energy Building Management System](https://github.com/SAIRAJA2005/sebms)
 - Automated energy monitoring for **10+ buildings** with **Salesforce**.
 - Improved efficiency by **25%** via billing automation.
-
-#### [SSR-Bazaar](https://ssrbazar.netlify.app/)
-- Static e-commerce site with **90%+ device compatibility**.
-- Real-time updates for seamless user experience.
 
 #### [School Management System](https://github.com/SAIRAJA2005/school-management)
 - Java-based system with **Swing UI** and **MySQL** for secure admissions.
@@ -61,7 +62,7 @@ I'm a **Computer Science graduate** (2022-2026) from **Aditya College of Enginee
 ---
 
 ### 🏅 Certifications & Achievements
-- **Certifications**: Java, Python, SQL, CCNA: Intro to Networks.
+- **Certifications**: Java, Python, SQL, CCNA: Intro to Networks, C, HTML & CSS, Redhat.
 - **Achievements**: 2nd Prize in **INTELLECTON @ ADV’IKA’23**.
 
 ---
