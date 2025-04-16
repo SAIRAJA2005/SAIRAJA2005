@@ -10,10 +10,6 @@
   <a href="https://github.com/SAIRAJA2005"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SAIRAJA2005&style=flat-square&color=blue" alt="Profile Views" />
-</p>
-
 ---
 
 ### 🌌 About Me
@@ -97,4 +93,8 @@ I'm a **Computer Science graduate** (2022-2026) from **Aditya College of Enginee
 
 <p align="center">
   <strong>Let’s code the future together! ✨</strong>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SAIRAJA2005&style=flat-square&color=blue" alt="Profile Views" />
 </p>
