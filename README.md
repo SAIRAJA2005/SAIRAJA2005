@@ -27,7 +27,7 @@ I'm a **Computer Science graduate** (2022-2026) from **Aditya College of Enginee
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,js,sql,nodejs,mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,js,nodejs,mysql,git,github" />
 </p>
 
 ---
