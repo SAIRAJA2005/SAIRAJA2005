@@ -54,7 +54,7 @@ I'm a Computer Science graduate with experience in Salesforce Admin and Developm
 ---
 
 ### 🏅 Certifications & Achievements
-- **Certifications**: Java, Python, SQL, CCNA: Intro to Networks, C, HTML & CSS, Redhat.
+- **Certifications**: Java, Python, SQL, CCNA: Intro to Networks, C, HTML & CSS, Redhat, Salesforce Agentforce Specialist.
 - **Achievements**: 2nd Prize in **INTELLECTON @ ADV’IKA’23**.
 
 ---
