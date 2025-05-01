@@ -61,7 +61,7 @@ I'm a Computer Science graduate with experience in Salesforce Admin and Developm
 
 ### 📊 GitHub Stats
 <p align="center">
- 
+   <img src="https://github-readme-stats.vercel.app/api?username=SAIRAJA2005&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" width="420" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SAIRAJA2005&theme=dracula&hide_border=true" alt="GitHub Streak" width="420" />
 </p>
 
