@@ -88,7 +88,7 @@ I'm a Computer Science graduate with experience in Salesforce Admin and Developm
 ---
 
 <p align="center">
-  <strong>Let’s code the future together! ✨</strong>
+  <strong>Let’s code the future together!✨</strong>
 </p>
 
 <p align="center">
