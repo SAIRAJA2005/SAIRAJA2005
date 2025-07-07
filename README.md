@@ -88,7 +88,7 @@ I'm a Computer Science graduate with experience in Salesforce Admin and Developm
 ---
 
 <p align="center">
-  <strong>Let’s code the future together!✨</strong>
+  <strong> Learning is the best vaccination for failures ✨</strong>
 </p>
 
 <p align="center">
