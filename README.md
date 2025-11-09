@@ -1,7 +1,5 @@
 <h1 align="center">Hey, I'm Sai Raja Saride! 👨‍💻</h1>
 
-<h4>Helloooo</h4>
-
 <p align="center" >
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size = 22&duration=4000&pause=1000&color=00DDEB&center=true&vCenter=true&width=450&lines=Computer+Science+Enthusiast;Salesforce+Wizard;Web+Development+Ninja;Problem-Solving+Geek" alt="Typing SVG" />
 </p>
