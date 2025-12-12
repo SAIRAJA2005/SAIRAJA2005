@@ -14,7 +14,7 @@
 ---
 
 ### 🌌 About Me
-I'm a Computer Science graduate with experience in Salesforce Admin and Development. Skilled in C++, Java, Python, and front-end tech like HTML, CSS, and JavaScript. Built web apps that improved performance by 40% and user engagement by 25%. Solved 400+ LeetCode problems and worked on 5+ real-world projects. I enjoy building clean UIs, automating workflows, and learning new tech!
+I'm a Computer Science graduate with experience in Salesforce Admin and Development. Skilled in C++, Java, Python, and front-end tech like HTML, CSS, and JavaScript. Built web apps that improved performance by 40% and user engagement by 25%. Solved 400+ LeetCode problems and worked on 5+ real-world projects. I enjoy building clean UIs, automating workflows, and learning new tech!!!
 
 ---
 
